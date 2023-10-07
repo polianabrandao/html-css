@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(253, 203, 253);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color: blueviolet;
+    background-color: aquamarine;
+}
+h2 {
+    color: rgb(38, 139, 84);
+}
+p {
+    text-align: justify;
+}
